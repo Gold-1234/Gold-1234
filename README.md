@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gold-1234! (Goldi Kumari)
+# 👋 Hi, I'm Goldi
 
 Welcome to my GitHub profile! I’m a passionate student, product builder, and developer with a love for creating impactful solutions from scratch. My journey is fueled by curiosity and a drive to learn and innovate, especially in the realms of web development, backend engineering, and the rapidly evolving world of agentic and generative AI.
 
