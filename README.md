@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Goldi
+# Hi, I'm Goldi
 
 Welcome to my GitHub profile! I’m a passionate student, product builder, and developer with a love for creating impactful solutions from scratch. My journey is fueled by curiosity and a drive to learn and innovate, especially in the realms of web development, backend engineering, and the rapidly evolving world of agentic and generative AI.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - **Student & Creator:** B.Tech in Electronics and Communication Engineering, University of Delhi (2023–2027)
 - **Web Development Enthusiast:** Skilled in both frontend and backend, with a strong preference for backend engineering.
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a passionate student, product builder, and d
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 Programming Languages: Python, JavaScript, C, C++  
 Frontend Development: React, Tailwind CSS, Bootstrap, HTML, CSS  
@@ -54,7 +54,7 @@ Computer Science Fundamentals: Database Management Systems, Operating Systems
 
 ---
 
-## 💡 What I Love
+## What I Love
 
 - Building products from the ground up
 - Solving real-world problems with code
@@ -63,7 +63,7 @@ Computer Science Fundamentals: Database Management Systems, Operating Systems
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - Email: gold.1764i@gmail.com
 - LinkedIn: [linkedin.com/in/goldikumari12](https://linkedin.com/in/goldikumari12)
