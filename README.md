@@ -1,6 +1,6 @@
-# Hi, I'm Goldi
+# 👋 Hi, I'm Gold-1234! (Goldi Kumari)
 
-Welcome to my GitHub profile! I’m a passionate student, product builder, and developer with a love for creating impactful solutions from scratch. My journey is fueled by curiosity and a drive to learn and innovate, especially in the realms of web development, backend engineering, and the rapidly evolving world of generative AI.
+Welcome to my GitHub profile! I’m a passionate student, product builder, and developer with a love for creating impactful solutions from scratch. My journey is fueled by curiosity and a drive to learn and innovate, especially in the realms of web development, backend engineering, and the rapidly evolving world of agentic and generative AI.
 
 ---
 
@@ -16,15 +16,14 @@ Welcome to my GitHub profile! I’m a passionate student, product builder, and d
 
 ## 🛠️ Skills
 
-**Languages:** Python, JavaScript, C, C++  
-**Frameworks & Libraries:** React, Express.js, Tailwind CSS, Bootstrap, Prisma  
-**Web Development:** HTML, CSS, React, Node.js, Express.js  
-**Mobile Development:** React Native  
-**Databases:** MongoDB, PostgreSQL, MySQL, Prisma DB  
-**Machine Learning/Data:** YOLOv8, MediaPipe, OpenCV, pandas, scikit-learn  
-**API Integration:** Judge0 API, Cloudinary, FFmpeg  
-**Tools:** Git, GitHub, Nginx, Docker RTMP server  
-**CS Fundamentals:** Database Management, Operating Systems
+Programming Languages: Python, JavaScript, C, C++  
+Frontend Development: React, Tailwind CSS, Bootstrap, HTML, CSS  
+Backend Development: Node.js, Express.js, Nginx, REST APIs, Prisma  
+Mobile Development: React Native  
+Databases: MongoDB, PostgreSQL, MySQL, Prisma ORM  
+Machine Learning & Data Science: YOLOv8, MediaPipe, OpenCV, scikit-learn, pandas  
+DevOps & Tools: Git, GitHub, Docker (RTMP server)  
+Computer Science Fundamentals: Database Management Systems, Operating Systems
 
 ---
 
